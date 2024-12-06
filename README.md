@@ -1,8 +1,7 @@
-# 🤖✨ Sarcasm Detection Using NLP & Machine Learning 🌟  
+#  Sarcasm Detection Using NLP   
 
-![sarcasm-banner](assets/Screenshot-2024-12-07-012428.png) <!-- Update this path if you place the image elsewhere -->
 
-## 🌈 **What’s This About?  
+## 🌈 What’s This About?  
 Sarcasm can be hilariously witty or incredibly confusing—especially for machines! This project equips computers to detect sarcasm in text, transforming ambiguity into clarity. Think of it as giving machines their very own sarcasm radar! 🛠️  
 
 ---
@@ -54,10 +53,3 @@ Current stats? **78% accuracy**, with a **30% reduction in false positives**! �
 - 🌍 Language-agnostic potential with the right embeddings!  
 - 🚀 Ready for integration into sentiment analysis pipelines, chatbots, or content moderation systems.  
 
----
-
-## 👩‍💻 **Get Started**  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/your-username/sarcasm-detection.git
-   cd sarcasm-detection
