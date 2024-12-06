@@ -1,7 +1,7 @@
 #  Sarcasm Detection Using NLP   
 
 
-## 🌈 What’s This About?  
+## 🌈 **What’s This About?**  
 Sarcasm can be hilariously witty or incredibly confusing—especially for machines! This project equips computers to detect sarcasm in text, transforming ambiguity into clarity. Think of it as giving machines their very own sarcasm radar! 🛠️  
 
 ---
