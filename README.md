@@ -1,4 +1,4 @@
-#  Sarcasm Detection Using NLP   
+#  Sarcasm Detection Using Deep Learning   
 
 
 ## 🌈 **What’s This About?**  
